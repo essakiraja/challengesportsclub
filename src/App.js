@@ -3,7 +3,7 @@ import { Play, Star, MapPin, Phone, Mail, Clock, Users, Dumbbell, Heart, Award }
 
 // ========== CONFIGURATION SECTION ==========
 // Modify these values to customize your gym's landing page
-const SITE_CONFIG = {
+export const SITE_CONFIG = {
   // Brand & Colors
   brandName: "FitZone Gym",
   primaryColor: "from-red-600 to-orange-600",
